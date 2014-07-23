@@ -250,22 +250,53 @@ h1, h2, h3, h4, h5, h6 {
       text-align: left; } }
   .summer-content .summer-index-post .summer-index-post-tags {
     font-size: 0.8125rem;
+    float: none;
     color: black;
-    margin-top: 1.5625rem;
-    font-family: "Montserrat", sans-serif;
-    text-align: center; }
+    text-align: center;
+    padding-top: 1.25rem;
+    padding-bottom: 0.625rem; }
     .summer-content .summer-index-post .summer-index-post-tags a {
       display: inline-block;
-      padding: 0.3125rem 0.625rem;
+      padding: 0.3125rem 0.9375rem;
+      margin-right: 0.1875rem;
       color: black;
       border: 0.0625rem solid black;
-      border-radius: 0.125rem; }
+      border-radius: 0.125rem;
+      margin-bottom: 0.3125rem; }
       .summer-content .summer-index-post .summer-index-post-tags a:hover {
         color: #e51843;
         border: 0.0625rem solid #e51843; }
   @media only screen and (min-width: 40.063em) {
     .summer-content .summer-index-post .summer-index-post-tags {
-      text-align: left; } }
+      padding-top: 0.3125rem;
+      padding-bottom: 0.3125rem;
+      text-align: left;
+      float: left; } }
+  .summer-content .summer-index-post .summer-post-read-more {
+    display: block;
+    text-align: center;
+    float: none;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1.5625rem;
+    font-size: 0.8125rem;
+    color: white;
+    background-color: black;
+    font-weight: 600;
+    padding: 0.625rem 2.5rem;
+    text-transform: uppercase;
+    -webkit-transition: background-color .3s;
+    transition: background-color .3s;
+    width: 60%;
+    border-radius: 0.125rem; }
+    .summer-content .summer-index-post .summer-post-read-more:hover {
+      background-color: #e51843; }
+  @media only screen and (min-width: 40.063em) {
+    .summer-content .summer-index-post .summer-post-read-more {
+      width: auto;
+      float: left;
+      margin-left: 0;
+      margin-right: 0.3125rem; } }
 
 nav.pagination {
   padding-top: 5.625rem;
