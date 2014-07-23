@@ -25,7 +25,7 @@ I am an PhD candidate in *ESE* at the [SEAS](http://www.seas.upenn.edu/) at **UP
 *[EECS]: Electrical and Computer Engineering
 *[UPENN]: University of Pennsylvania
 
-<a href="{{ site.url }}/images/Hossain-Mohd-Faysal.jpg"><img src="{{ site.url }}/images/Hossain-Mohd-Faysal.jpg" alt="Hossain Mohammad Faysal" class="img-circle"></a>
+![Hossain Mohammad Faysal]({{ site.url }}/images/Hossain-Mohd-Faysal.jpg "At Bates Linear Accelerator Center")
 <figcaption>At Bates Linear Accelerator Center</figcaption>
 
 I was born and brought up in Doha. Yes, its a desert peninsula, yes we have camels and falcons and all the other Middle Eastern traits/stereotypes you can think of.
