@@ -19,6 +19,7 @@
      post.puts "mathjax: "
      post.puts "chart: "
      post.puts "comments: true"
+     post.puts "featured: false"
      post.puts "---"
    end
   end
