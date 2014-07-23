@@ -6,8 +6,9 @@ category: theme
 tags: [how-to]
 imagefeature: cover10.jpg
 ---
+Don't let yourself be fooled by the minimal and tidy overall appearance of this theme — *you might be surprised what's included.*
 
-General notes and suggestions for customizing **HMFAYSAL Notepad Theme**.
+General notes and suggestions for customizing **Notepad Theme**.
 
 <section id="table-of-contents" class="toc">
   <header>
