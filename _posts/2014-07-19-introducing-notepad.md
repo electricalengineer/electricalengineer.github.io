@@ -9,6 +9,7 @@ tags: []
 imagefeature: cover1.jpg
 comments: true
 mathjax: 
+featured: true
 ---
 
 Notepad is a Jekyll theme which is very simple, clean and beautiful. This theme is good for any blog.
