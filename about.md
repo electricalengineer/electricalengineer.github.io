@@ -11,7 +11,7 @@ chart: true
   <figcaption>Hossain Mohammad Faysal</figcaption>
 </figure>
 
-My name is **Hossain Mohd. Faysal**, and this is my personal blog. This blog currently has {{ site.posts | size }} posts. 
+My name is **Hossain Mohd. Faysal**, and this is my personal blog. This blog currently has {{ site.posts | size }} posts in {{ site.categories | size }} categories. 
 
 <div id="myfirstchart" style="height: 250px;"></div>
 <figcaption>Number of Posts Breakdown</figcaption>
@@ -26,7 +26,7 @@ I am an PhD candidate in *ESE* at the [SEAS](http://www.seas.upenn.edu/) at **UP
 *[UPENN]: University of Pennsylvania
 
 ![Hossain Mohammad Faysal]({{ site.url }}/images/Hossain-Mohd-Faysal.jpg "At Bates Linear Accelerator Center")
-<figcaption>At Bates Linear Accelerator Center</figcaption>
+<figcaption>At <a href="http://web.mit.edu/lns/research/bates.html">Bates Linear Accelerator Center</a></figcaption>
 
 I was born and brought up in Doha. Yes, its a desert peninsula, yes we have camels and falcons and all the other Middle Eastern traits/stereotypes you can think of.
 
