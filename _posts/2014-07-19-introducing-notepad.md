@@ -60,7 +60,7 @@ Main Features:
 - Fast and light
 - Font Awesome
 - Disqus comments integration
-- 
+
 You can set post image covers by using only Ghost narkdown editor just place something like this:
 
     ![cover-image](http://path-to-your-image.jpg)
