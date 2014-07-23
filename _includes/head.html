@@ -42,12 +42,10 @@
     <link rel="stylesheet" href="{{ site.url }}/assets/css/vendor/foundation.min.css">
     <link rel="stylesheet" href="{{ site.url }}/assets/css/style.css">
     <link rel="stylesheet" href="{{ site.url }}/assets/css/post.css">
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
-    <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
     {% if page.chart %}
-    <link rel="stylesheet" href="http://cdn.oesmith.co.uk/morris-0.5.1.css">
-    <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.1.0/raphael-min.js"></script>
-    <script src="http://cdn.oesmith.co.uk/morris-0.5.1.min.js"></script>
+    <!-- amCharts javascript sources -->
+    <script type="text/javascript" src="{{ site.url }}/assets/js/vendor/amcharts.js"></script>
+    <script type="text/javascript" src="http://cdn.amcharts.com/lib/3/pie.js"></script>
     {% endif %}
 
 
