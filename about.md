@@ -84,10 +84,11 @@ Morris.Donut({
 {% assign tags_list = nil %}
   ],
   colors: [
-    '#E44424',
-    '#39B580',
-    '#118C4E',
-    '#FF9009'
+    '#8A9B0F',
+    '#F8CA00',
+    '#E97F02',
+    '#BD1550',
+    '#490A3D'
   ],
   resize: true
 });

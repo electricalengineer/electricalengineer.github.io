@@ -41,9 +41,3 @@ Example - two columns:
 </div>
 
 [More info about Foundation framework](http://foundation.zurb.com/docs/)
-
-<div class="range-slider" data-slider>
-  <span class="range-slider-handle"></span>
-  <span class="range-slider-active-segment"></span>
-  <input type="hidden">
-</div>
