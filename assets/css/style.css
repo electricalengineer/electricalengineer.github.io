@@ -600,3 +600,8 @@ figcaption {
 .highlight .vg { color: #8a2be2; text-decoration: underline} /* Name.Variable.Global */
 .highlight .vi { color: #8a2be2; text-decoration: underline} /* Name.Variable.Instance */
 .highlight .il { color: #00C226; text-decoration: underline} /* Literal.Number.Integer.Long */
+.chart {
+  max-width: 56.250rem;
+  margin-right: auto;
+  margin-left: auto;
+}
